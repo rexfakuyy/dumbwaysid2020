@@ -71,5 +71,6 @@ Contoh aplikasi NoSQL:
 ```markdown
 7. Belum sempat record karena berdekatan dengan waktu pengumpulan https://todoapp-db-sql.herokuapp.com/
 ```
+![07.png]https://user-images.githubusercontent.com/45087061/100516971-11f6d800-31ba-11eb-882f-62552f31e5f7.png
 
 ---
