@@ -67,3 +67,9 @@ Contoh aplikasi NoSQL:
 6. Saya memilih GitHub karena lebih User Friendly
 ```
 ---
+
+```markdown
+7. Belum sempat record karena berdekatan dengan waktu pengumpulan https://todoapp-db-sql.herokuapp.com/
+```
+
+---
